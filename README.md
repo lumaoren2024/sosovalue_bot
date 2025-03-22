@@ -4,6 +4,8 @@ sosovalue 属于第二期任务了，第一期已经空投了。据说要签到1
 
 声明：目前测试版会出现意想不到的奔溃问题，提交问题即可。请不要问怎么办？
 
+注册邀请： https://sosovalue.com/join/708643YU
+
 
 # sosovalue bot 教程
 config.json文件
